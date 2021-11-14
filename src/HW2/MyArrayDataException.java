@@ -13,4 +13,5 @@ public class MyArrayDataException extends Exception {
     String getError() {
         return "Ошибка в [" + errX + " , " + errY + "] ";
     }
+
 }
