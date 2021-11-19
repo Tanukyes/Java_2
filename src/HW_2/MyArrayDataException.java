@@ -1,4 +1,4 @@
-package HW2;
+package HW_2;
 
 public class MyArrayDataException extends Exception {
     int errX;
